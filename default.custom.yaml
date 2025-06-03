@@ -1,0 +1,17 @@
+patch:
+  # config_version: '2025-05-01'
+  switcher:
+    hotkeys:
+      - Alt+grave
+  
+  # Set default ASCII mode for all applications
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+    Caps_Lock: clear
+    Shift_L: commit_code
+    Shift_R: commit_code
+    Control_L: noop
+    Control_R: noop
+  
+  # This is the key setting to ensure ASCII mode is default
+  # ascii_mode: true

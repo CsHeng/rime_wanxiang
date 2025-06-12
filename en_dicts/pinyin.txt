@@ -1,7 +1,7 @@
 # Rime table
 #@/db_name	cn_en.txt
 #@/db_type	tabledb
-#@/tick	2
+#@/tick	3
 AAA级	AAAji	0
 AA吧	AAba	0
 AA制	AAzhi	0
@@ -1078,7 +1078,7 @@ Steam云	steamyun	0
 苏M	suM	0
 苏N	suN	0
 苏U	suU	0
-苏A	sua	0
+苏A	sua	1
 苏B	sub	0
 苏C	suc	0
 苏D	sud	0
